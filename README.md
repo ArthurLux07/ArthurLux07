@@ -1,7 +1,7 @@
 <h1 align= "center"> Olá, me chamo Arthur! 🪐 </h1>
 <h2>Algumas curiosidades:</h2>
 
-<p>🏫 Curso de ADS em andamento
+<p>🏫 Curso técnico de TDS completo
 <p>🔎 Atualmente estou focado no frontend
 <p>⁉️ Sou muito curioso para aprender sobre novas tecnologias para design e cybersegurança
 <p>💻 Conhecimento básico na área de redes 
